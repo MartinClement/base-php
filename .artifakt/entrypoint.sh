@@ -2,7 +2,7 @@
 
 echo "ENTRYPOINT.SH CUSTOM SCRIPT - BEGIN >>>>>>>>"
 
-exit 0 ## Force Any buil to fail
+exit 1 ## Force Any buil to fail
 
 env
 
