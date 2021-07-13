@@ -1,4 +1,5 @@
 #!/bin/bash
+qoier,gqi,ergiq,ergi,qerĝi,qergipo,qergi,
 exit 1
 echo "ENTRYPOINT.SH CUSTOM SCRIPT - BEGIN >>>>>>>>"
 
